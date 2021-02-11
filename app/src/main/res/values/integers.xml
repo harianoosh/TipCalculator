@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="custom_tip_default">20</integer>
+    <integer name="custom_tip_min">0</integer>
+    <integer name="custom_tip_max">50</integer>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill_label">Bill Total:</string>
+    <string name="tip_label_radio">Tip %:</string>
+    <string name="custom_label">Custom</string>
+    <string name="tip_label_seekbar">Custom:</string>
+    <string name="exit_label">Exit</string>
+    <string name="total_label">Total:</string>
+    <string name="bill_placeholder">Enter Bill Value</string>
+    <string name="tip_1">10%</string>
+    <string name="tip_2">15%</string>
+    <string name="tip_3">18%</string>
+    <string name="tip_label">Tip:</string>
+    <string name="toast_message">Enter Bill Total</string>
+</resources>
